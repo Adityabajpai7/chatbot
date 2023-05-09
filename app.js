@@ -1,6 +1,7 @@
 function talk() {
     var know = {
         "Who are you": "Hello, Aditya here ",
+        "Hello": "hello,how are you ",
         "hello": "hello,how are you",
         "i am fine": "that's great",
         "nice to meet you": "thank you nice to meet you too",
